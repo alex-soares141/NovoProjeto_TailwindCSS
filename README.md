@@ -20,13 +20,33 @@ npm install
 # 🔧 Estrutura do Projeto
 
 ├── public/             # Arquivos públicos
+
+
 ├── src/
+
+
 │   ├── assets/         # Imagens e outros assets
+
+
 │   ├── components/     # Componentes reutilizáveis
+
+
 │   ├── pages/          # Páginas da aplicação
+
+
 │   ├── App.tsx        # Componente principal
+
+
 │   └── main.tsx       # Ponto de entrada
+
+
 ├── tailwind.config.js  # Configuração do Tailwind
+
+
 ├── postcss.config.mjs   # Configuração do PostCSS
+
+
 ├── index.html
+
+
 └── vite.config.ts      # Configuração do Vite
