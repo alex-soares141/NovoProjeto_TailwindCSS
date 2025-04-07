@@ -1,6 +1,8 @@
 # 🚀 Projeto Vite + Tailwind CSS
 
-Este é um projeto inicial criado com [Vite](https://vitejs.dev/) e estilizado com [Tailwind CSS](https://tailwindcss.com/). O objetivo é servir como base para continuar praticando e aprimorando meus conhecimentos em desenvolvimento Front-End.
+Este é um projeto inicial criado com [Vite](https://vitejs.dev/) e estilizado com [Tailwind CSS](https://tailwindcss.com/). 
+
+O objetivo é servir como base para continuar praticando e aprimorando meus conhecimentos em desenvolvimento Front-End.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -14,7 +16,11 @@ Este é um projeto inicial criado com [Vite](https://vitejs.dev/) e estilizado c
 Clone o repositório e instale as dependências:
 
 git clone https://github.com/alex-soares141/NovoProjeto_TailwindCSS.git
-cd seu-repositorio
+
+
+cd NovoProjeto_TailwindCSS
+
+
 npm install
 
 # 🔧 Estrutura do Projeto
